@@ -1,11 +1,12 @@
-# TTL
-Official repository for our CVPR 2026 paper "TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models"
+# TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models"
 
 
-The code is currently being cleaned and will be released soon.
+## 🚧 Code Release Status
 
-We plan to release:
-Training and inference code
-Instructions for reproducing the results
+The codebase is currently being **cleaned and organized** and will be released soon.
 
-Stay tuned!
+We will release:
+
+- Training and inference code
+- Scripts for reproducing the results
+- Documentation and usage instructions
