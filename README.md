@@ -1,4 +1,4 @@
-# TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models"
+# TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models
 
 
 ## 🚧 Code Release Status
